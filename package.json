@@ -1,0 +1,16 @@
+{
+  "name": "hapijs-search-query",
+  "version": "1.0.0",
+  "description": "",/Users/mhdfadhilap/Downloads/README.md
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.2",
+    "joi": "^17.11.0"
+  }
+}
