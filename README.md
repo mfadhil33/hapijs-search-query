@@ -7,7 +7,7 @@ Nodejs->HapiJS
 **1. Clone repositori ini ke dalam direktori lokal Anda:**
 
 ```bash
-git clone https://github.com/username/nama-proyek.git
+git clone https://github.com/username/nama-proyek.git](https://github.com/mfadhil33/hapijs-search-query.git
 
 ```
 
